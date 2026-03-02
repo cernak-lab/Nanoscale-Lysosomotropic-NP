@@ -1,0 +1,18 @@
+﻿entry,number,on plot,ELN sample entry,nucleophile,Ic50 in 72 hrs,D2B inhibition %,prod conversion %,Data File,product smiles
+r17,7,,184,N1,8.5,0,65,D8,CC(C)CCCNC[C@]1(C)CCC[C@]2(C)c3ccc(C(C)C)cc3CC[C@@H]12
+r23,9,,262,N1,8.3,0,86,AF8,CCCC[NH]C[C@@]1(CCC[C@@]2(C3=C(CC[C@@H]12)C=C(C(C)C)C=C3)C)C
+r20,16,v,191,N1,66.9,17,5.3,AA10,CC(C)c1ccc2c(c1)CC[C@H]1[C@](C)(CNCc3ccc(C(F)(F)F)cc3)CCC[C@]21C
+r21,19,v,194,N1,62.3,0,37,E10,Cc1ccccc1CNC[C@]1(C)CCC[C@]2(C)c3ccc(C(C)C)cc3CC[C@@H]12
+r19,12,,188,N1,54.8,8,0,H4,CC(C)c1ccc2c(c1)CC[C@H]1[C@](C)(CNCCc3cccc(Cl)c3)CCC[C@]21C
+r9,25,v,"243, 285",N1,2,100,69.6,cernak-2024-q3_ykao_yk-1536-4-make-product_1_f7_2_c7.raw,COc1c(OC)cc(CCCNC[C@@]2(CCC[C@@]3(c4c(CC[C@@H]23)cc(C(C)C)cc4)C)C)cc1
+r1,26,v,236,N1,5.3,100,100,cernak-2024-q3_ykao_yk-1536-4-make-product_1_c1_1_b1.raw,COc1ccc(CNC[C@]2(C)CCC[C@]3(C)c4ccc(C(C)C)cc4CC[C@@H]23)cc1
+r6,27,v,247,N1,5.8,94,58.2,cernak-2024-q3_ykao_yk-1536-4-make-product_1_d6_2_b6.raw,COc1ccc2cc(CNC[C@]3(C)CCC[C@]4(C)c5ccc(C(C)C)cc5CC[C@@H]34)ccc2c1
+r5,28,v,242,N1,5.9,100,52.7,cernak-2024-q3_ykao_yk-1536-4-make-product_1_b7_2_a7.raw,COc1cc(CNC[C@]2(C)CCC[C@]3(C)c4ccc(C(C)C)cc4CC[C@@H]23)ccc1O
+r7,29,v,248,N1,6.7,100,14.7,cernak-2024-q3_ykao_yk-1536-4-make-product_1_d7_2_b7.raw,Cc1ccc(C(O)CNC[C@]2(C)CCC[C@]3(C)c4ccc(C(C)C)cc4CC[C@@H]23)cc1
+r2,30,v,239,N1,22.9,100,14.4,cernak-2024-q3_ykao_yk-1536-4-make-product_1_i1_1_e1.raw,Cc1ccc([N+](=O)[O-])c(CNC[C@]2(C)CCC[C@]3(C)c4ccc(C(C)C)cc4CC[C@@H]23)c1
+r3,31,v,240,N1,20,90,13.6,cernak-2024-q3_ykao_yk-1536-4-make-product_1_k2_1_f2.raw,CC(c1cc(CC[C@H]2[C@](CNCc3ccccc3F)(CCC[C@]42C)C)c4cc1)C
+r10,32,v,244,N1,1.6,98,24.6,cernak-2024-q3_ykao_yk-1536-4-make-product_1_ad6_2_o6.raw,CC(C)c1ccc2c(c1)CC[C@H]1[C@](C)(CNCC=Cc3c[nH]c4ccccc34)CCC[C@]21C
+r8,33,v,241,N1,3,81,8.5,cernak-2024-q3_ykao_yk-1536-4-make-product_1_f1_2_c1.raw,CC(C)c1ccc2c(c1)CC[C@H]1[C@](C)(CNCc3cn(C)c4ccccc34)CCC[C@]21C
+r4,34,v,237,N1,3.1,70,46.6,cernak-2024-q3_ykao_yk-1536-4-make-product_1_k5_1_f5.raw,CC(C)c1ccc2c(c1)CC[C@H]1[C@](C)(CNCc3c[nH]c4ccccc34)CCC[C@]21C
+r24,36,v,263,N1,3,100,88,D1,COC1=CC=C(CCCNC[C@@]2(CCC[C@@]3(C4=C(CC[C@@H]23)C=C(C(C)C)C=C4)C)C)C=C1
+r49,46,,288,N1,12.5,0,62,X5,C[C@]1(CCC[C@@]2(C3=C(CC[C@@H]12)C=C(C(C)C)C=C3)C)CNCCC4=CC=C(OC)C=C4
