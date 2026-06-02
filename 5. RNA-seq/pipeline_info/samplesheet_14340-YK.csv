@@ -1,0 +1,10 @@
+sample,fastq_1,fastq_2,strandedness
+14340-YK-1,/path/to/14340-YK-1_S32_R1_001.fastq.gz,/path/to/14340-YK-1_S32_R2_001.fastq.gz,auto
+14340-YK-2,/path/to/14340-YK-2_S33_R1_001.fastq.gz,/path/to/14340-YK-2_S33_R2_001.fastq.gz,auto
+14340-YK-3,/path/to/14340-YK-3_S34_R1_001.fastq.gz,/path/to/14340-YK-3_S34_R2_001.fastq.gz,auto
+14340-YK-4,/path/to/14340-YK-4_S35_R1_001.fastq.gz,/path/to/14340-YK-4_S35_R2_001.fastq.gz,auto
+14340-YK-5,/path/to/14340-YK-5_S36_R1_001.fastq.gz,/path/to/14340-YK-5_S36_R2_001.fastq.gz,auto
+14340-YK-6,/path/to/14340-YK-6_S37_R1_001.fastq.gz,/path/to/14340-YK-6_S37_R2_001.fastq.gz,auto
+14340-YK-7,/path/to/14340-YK-7_S38_R1_001.fastq.gz,/path/to/14340-YK-7_S38_R2_001.fastq.gz,auto
+14340-YK-8,/path/to/14340-YK-8_S39_R1_001.fastq.gz,/path/to/14340-YK-8_S39_R2_001.fastq.gz,auto
+14340-YK-9,/path/to/14340-YK-9_S40_R1_001.fastq.gz,/path/to/14340-YK-9_S40_R2_001.fastq.gz,auto

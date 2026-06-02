@@ -1,0 +1,181 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/104/14340-YK-1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/106/14340-YK-2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/107/14340-YK-3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/109/14340-YK-4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/110/14340-YK-5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/103/14340-YK-6.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/105/14340-YK-7.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/108/14340-YK-8.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/102/14340-YK-9.markdup.sorted.MarkDuplicates.metrics.txt
+QualiMap	rna_genome_results	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/242/14340-YK-7/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/244/14340-YK-2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/247/14340-YK-5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/240/14340-YK-9/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/246/14340-YK-4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/239/14340-YK-6/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/243/14340-YK-8/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/245/14340-YK-3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/241/14340-YK-1/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/242/14340-YK-7/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/244/14340-YK-2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/247/14340-YK-5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/240/14340-YK-9/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/246/14340-YK-4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/239/14340-YK-6/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/243/14340-YK-8/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/245/14340-YK-3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/241/14340-YK-1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSEM	all_sections	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/69/14340-YK-1.stat/14340-YK-1.cnt
+RSEM	all_sections	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/68/14340-YK-2.stat/14340-YK-2.cnt
+RSEM	all_sections	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/71/14340-YK-3.stat/14340-YK-3.cnt
+RSEM	all_sections	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/73/14340-YK-4.stat/14340-YK-4.cnt
+RSEM	all_sections	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/74/14340-YK-5.stat/14340-YK-5.cnt
+RSEM	all_sections	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/67/14340-YK-6.stat/14340-YK-6.cnt
+RSEM	all_sections	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/70/14340-YK-7.stat/14340-YK-7.cnt
+RSEM	all_sections	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/72/14340-YK-8.stat/14340-YK-8.cnt
+RSEM	all_sections	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/66/14340-YK-9.stat/14340-YK-9.cnt
+RSeQC	read_distribution	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/195/14340-YK-1.read_distribution.txt
+RSeQC	read_distribution	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/197/14340-YK-2.read_distribution.txt
+RSeQC	read_distribution	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/198/14340-YK-3.read_distribution.txt
+RSeQC	read_distribution	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/200/14340-YK-4.read_distribution.txt
+RSeQC	read_distribution	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/201/14340-YK-5.read_distribution.txt
+RSeQC	read_distribution	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/194/14340-YK-6.read_distribution.txt
+RSeQC	read_distribution	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/196/14340-YK-7.read_distribution.txt
+RSeQC	read_distribution	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/199/14340-YK-8.read_distribution.txt
+RSeQC	read_distribution	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/193/14340-YK-9.read_distribution.txt
+RSeQC	inner_distance	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/150/14340-YK-1.inner_distance_freq.txt
+RSeQC	inner_distance	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/152/14340-YK-2.inner_distance_freq.txt
+RSeQC	inner_distance	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/153/14340-YK-3.inner_distance_freq.txt
+RSeQC	inner_distance	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/155/14340-YK-4.inner_distance_freq.txt
+RSeQC	inner_distance	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/156/14340-YK-5.inner_distance_freq.txt
+RSeQC	inner_distance	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/149/14340-YK-6.inner_distance_freq.txt
+RSeQC	inner_distance	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/151/14340-YK-7.inner_distance_freq.txt
+RSeQC	inner_distance	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/154/14340-YK-8.inner_distance_freq.txt
+RSeQC	inner_distance	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/148/14340-YK-9.inner_distance_freq.txt
+RSeQC	read_duplication	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/213/14340-YK-1.pos.DupRate.xls
+RSeQC	read_duplication	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/215/14340-YK-2.pos.DupRate.xls
+RSeQC	read_duplication	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/216/14340-YK-3.pos.DupRate.xls
+RSeQC	read_duplication	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/218/14340-YK-4.pos.DupRate.xls
+RSeQC	read_duplication	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/219/14340-YK-5.pos.DupRate.xls
+RSeQC	read_duplication	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/212/14340-YK-6.pos.DupRate.xls
+RSeQC	read_duplication	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/214/14340-YK-7.pos.DupRate.xls
+RSeQC	read_duplication	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/217/14340-YK-8.pos.DupRate.xls
+RSeQC	read_duplication	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/211/14340-YK-9.pos.DupRate.xls
+RSeQC	junction_annotation	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/168/14340-YK-1.junction_annotation.log
+RSeQC	junction_annotation	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/170/14340-YK-2.junction_annotation.log
+RSeQC	junction_annotation	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/171/14340-YK-3.junction_annotation.log
+RSeQC	junction_annotation	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/173/14340-YK-4.junction_annotation.log
+RSeQC	junction_annotation	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/174/14340-YK-5.junction_annotation.log
+RSeQC	junction_annotation	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/167/14340-YK-6.junction_annotation.log
+RSeQC	junction_annotation	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/169/14340-YK-7.junction_annotation.log
+RSeQC	junction_annotation	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/172/14340-YK-8.junction_annotation.log
+RSeQC	junction_annotation	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/166/14340-YK-9.junction_annotation.log
+RSeQC	junction_saturation	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/186/14340-YK-1.junctionSaturation_plot.r
+RSeQC	junction_saturation	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/188/14340-YK-2.junctionSaturation_plot.r
+RSeQC	junction_saturation	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/189/14340-YK-3.junctionSaturation_plot.r
+RSeQC	junction_saturation	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/191/14340-YK-4.junctionSaturation_plot.r
+RSeQC	junction_saturation	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/192/14340-YK-5.junctionSaturation_plot.r
+RSeQC	junction_saturation	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/185/14340-YK-6.junctionSaturation_plot.r
+RSeQC	junction_saturation	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/187/14340-YK-7.junctionSaturation_plot.r
+RSeQC	junction_saturation	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/190/14340-YK-8.junctionSaturation_plot.r
+RSeQC	junction_saturation	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/184/14340-YK-9.junctionSaturation_plot.r
+RSeQC	infer_experiment	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/140/14340-YK-1.infer_experiment.txt
+RSeQC	infer_experiment	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/142/14340-YK-2.infer_experiment.txt
+RSeQC	infer_experiment	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/143/14340-YK-3.infer_experiment.txt
+RSeQC	infer_experiment	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/145/14340-YK-4.infer_experiment.txt
+RSeQC	infer_experiment	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/146/14340-YK-5.infer_experiment.txt
+RSeQC	infer_experiment	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/139/14340-YK-6.infer_experiment.txt
+RSeQC	infer_experiment	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/141/14340-YK-7.infer_experiment.txt
+RSeQC	infer_experiment	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/144/14340-YK-8.infer_experiment.txt
+RSeQC	infer_experiment	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/138/14340-YK-9.infer_experiment.txt
+RSeQC	bam_stat	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/177/14340-YK-1.bam_stat.txt
+RSeQC	bam_stat	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/179/14340-YK-2.bam_stat.txt
+RSeQC	bam_stat	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/180/14340-YK-3.bam_stat.txt
+RSeQC	bam_stat	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/182/14340-YK-4.bam_stat.txt
+RSeQC	bam_stat	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/183/14340-YK-5.bam_stat.txt
+RSeQC	bam_stat	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/176/14340-YK-6.bam_stat.txt
+RSeQC	bam_stat	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/178/14340-YK-7.bam_stat.txt
+RSeQC	bam_stat	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/181/14340-YK-8.bam_stat.txt
+RSeQC	bam_stat	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/175/14340-YK-9.bam_stat.txt
+Samtools	stats	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/95/14340-YK-1.sorted.bam.stats
+Samtools	stats	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/209/14340-YK-2.markdup.sorted.bam.stats
+Samtools	stats	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/206/14340-YK-3.markdup.sorted.bam.stats
+Samtools	stats	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/98/14340-YK-4.sorted.bam.stats
+Samtools	stats	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/208/14340-YK-5.markdup.sorted.bam.stats
+Samtools	stats	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/202/14340-YK-6.markdup.sorted.bam.stats
+Samtools	stats	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/96/14340-YK-7.sorted.bam.stats
+Samtools	stats	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/99/14340-YK-8.sorted.bam.stats
+Samtools	stats	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/94/14340-YK-9.sorted.bam.stats
+Samtools	flagstat	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/86/14340-YK-1.sorted.bam.flagstat
+Samtools	flagstat	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/88/14340-YK-2.sorted.bam.flagstat
+Samtools	flagstat	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/162/14340-YK-3.markdup.sorted.bam.flagstat
+Samtools	flagstat	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/165/14340-YK-4.markdup.sorted.bam.flagstat
+Samtools	flagstat	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/92/14340-YK-5.sorted.bam.flagstat
+Samtools	flagstat	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/87/14340-YK-6.sorted.bam.flagstat
+Samtools	flagstat	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/85/14340-YK-7.sorted.bam.flagstat
+Samtools	flagstat	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/163/14340-YK-8.markdup.sorted.bam.flagstat
+Samtools	flagstat	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/158/14340-YK-9.markdup.sorted.bam.flagstat
+Samtools	idxstats	14340-YK-1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/77/14340-YK-1.sorted.bam.idxstats
+Samtools	idxstats	14340-YK-2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/115/14340-YK-2.markdup.sorted.bam.idxstats
+Samtools	idxstats	14340-YK-3	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/80/14340-YK-3.sorted.bam.idxstats
+Samtools	idxstats	14340-YK-4	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/117/14340-YK-4.markdup.sorted.bam.idxstats
+Samtools	idxstats	14340-YK-5	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/83/14340-YK-5.sorted.bam.idxstats
+Samtools	idxstats	14340-YK-6	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/111/14340-YK-6.markdup.sorted.bam.idxstats
+Samtools	idxstats	14340-YK-7	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/76/14340-YK-7.sorted.bam.idxstats
+Samtools	idxstats	14340-YK-8	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/119/14340-YK-8.markdup.sorted.bam.idxstats
+Samtools	idxstats	14340-YK-9	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/75/14340-YK-9.sorted.bam.idxstats
+FastQC (raw)	all_sections	14340-YK-1_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/9/14340-YK-1_raw_1_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-1_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/10/14340-YK-1_raw_2_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-2_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/19/14340-YK-2_raw_1_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-2_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/20/14340-YK-2_raw_2_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-3_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/17/14340-YK-3_raw_1_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-3_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/18/14340-YK-3_raw_2_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-4_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/11/14340-YK-4_raw_1_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-4_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/12/14340-YK-4_raw_2_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-5_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/13/14340-YK-5_raw_1_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-5_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/14/14340-YK-5_raw_2_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-6_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/3/14340-YK-6_raw_1_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-6_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/4/14340-YK-6_raw_2_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-7_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/15/14340-YK-7_raw_1_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-7_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/16/14340-YK-7_raw_2_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-8_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/5/14340-YK-8_raw_1_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-8_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/6/14340-YK-8_raw_2_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-9_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/7/14340-YK-9_raw_1_fastqc.zip
+FastQC (raw)	all_sections	14340-YK-9_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/8/14340-YK-9_raw_2_fastqc.zip
+Cutadapt	all_sections	14340-YK-1_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/33/14340-YK-1_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-1_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/34/14340-YK-1_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-2_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/53/14340-YK-2_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-2_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/54/14340-YK-2_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-3_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/45/14340-YK-3_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-3_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/46/14340-YK-3_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-4_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/37/14340-YK-4_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-4_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/38/14340-YK-4_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-5_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/49/14340-YK-5_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-5_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/50/14340-YK-5_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-6_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/21/14340-YK-6_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-6_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/22/14340-YK-6_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-7_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/41/14340-YK-7_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-7_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/42/14340-YK-7_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-8_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/25/14340-YK-8_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-8_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/26/14340-YK-8_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-9_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/29/14340-YK-9_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14340-YK-9_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/30/14340-YK-9_trimmed_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	14340-YK-1_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/35/14340-YK-1_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-1_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/36/14340-YK-1_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-2_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/55/14340-YK-2_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-2_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/56/14340-YK-2_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-3_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/47/14340-YK-3_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-3_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/48/14340-YK-3_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-4_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/39/14340-YK-4_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-4_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/40/14340-YK-4_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-5_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/51/14340-YK-5_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-5_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/52/14340-YK-5_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-6_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/23/14340-YK-6_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-6_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/24/14340-YK-6_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-7_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/43/14340-YK-7_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-7_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/44/14340-YK-7_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-8_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/27/14340-YK-8_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-8_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/28/14340-YK-8_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-9_1	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/31/14340-YK-9_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	14340-YK-9_2	/nfs/turbo/agc-data/processing/broccoli/14340-YK/work/5d/28e4e4aff9793fd786cc94fb953d9a/32/14340-YK-9_trimmed_2_val_2_fastqc.zip

@@ -1,0 +1,6 @@
+fasta: /path/to/downloaded_ref.fa
+gtf: /path/to/downloaded_ref.gtf
+input: samplesheet_14340-YK.csv
+outdir: output
+aligner: star_rsem
+skip_deseq2_qc: true

@@ -1,0 +1,6 @@
+genome_build: GRCh38
+species: Homo sapiens
+ensembl_version: 113
+sources:
+    fasta: https://ftp.ensembl.org/pub/release-113/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna_sm.primary_assembly.fa.gz
+    gtf: https://ftp.ensembl.org/pub/release-113/gtf/homo_sapiens/Homo_sapiens.GRCh38.113.gtf.gz

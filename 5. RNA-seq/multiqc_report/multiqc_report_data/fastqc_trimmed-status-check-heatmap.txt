@@ -1,0 +1,19 @@
+.	Basic Statistics	Per Base Sequence Quality	Per Tile Sequence Quality	Per Sequence Quality Scores	Per Base Sequence Content	Per Sequence GC Content	Per Base N Content	Sequence Length Distribution	Sequence Duplication Levels	Overrepresented Sequences	Adapter Content
+14340-YK-1_1	1	1	1	1	0.25	1	1	0.5	0.25	1	1
+14340-YK-1_2	1	1	0.5	1	0.5	1	1	0.5	0.25	0.5	1
+14340-YK-2_1	1	1	1	1	0.25	1	1	0.5	0.25	1	1
+14340-YK-2_2	1	1	0.5	1	0.5	1	1	0.5	0.25	0.5	1
+14340-YK-3_1	1	1	1	1	0.25	1	1	0.5	0.25	1	1
+14340-YK-3_2	1	1	0.5	1	0.5	1	1	0.5	0.25	0.5	1
+14340-YK-4_1	1	1	1	1	0.25	1	1	0.5	0.25	1	1
+14340-YK-4_2	1	1	0.5	1	0.5	1	1	0.5	0.25	0.5	1
+14340-YK-5_1	1	1	1	1	0.25	1	1	0.5	0.25	1	1
+14340-YK-5_2	1	1	0.5	1	0.5	1	1	0.5	0.25	0.5	1
+14340-YK-6_1	1	1	1	1	0.25	1	1	0.5	0.25	1	1
+14340-YK-6_2	1	1	0.5	1	0.5	1	1	0.5	0.25	0.5	1
+14340-YK-7_1	1	1	1	1	0.25	1	1	0.5	0.25	1	1
+14340-YK-7_2	1	1	0.5	1	0.5	1	1	0.5	0.25	0.5	1
+14340-YK-8_1	1	1	1	1	0.25	1	1	0.5	0.25	1	1
+14340-YK-8_2	1	1	0.5	1	0.5	1	1	0.5	0.25	0.5	1
+14340-YK-9_1	1	1	1	1	0.25	1	1	0.5	0.25	1	1
+14340-YK-9_2	1	1	0.5	1	0.5	1	1	0.5	0.25	0.5	1
